@@ -1,1 +1,1 @@
-__version__ = '3.18.2-cloudsmith1'
+__version__ = '3.18.2.post1+cloudsmith'
